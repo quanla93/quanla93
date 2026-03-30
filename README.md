@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/quanla93">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&lines=Back-End+Developer;Java+%7C+Spring+Boot+%7C+.NET;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Back-End+Developer;Java+%7C+Spring+Boot+%7C+.NET;Python+%7C+Robot+Framework;Always+learning+new+things" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 
 ## About Me
 
-- Back-End Developer with hands-on experience in **Java**, **Spring Boot**, **ASP.NET**, **C#**, and **PostgreSQL**
+- Back-End Developer with hands-on experience in **Java**, **Spring Boot**, **ASP.NET**, **C#**, **PostgreSQL**, and **Python**
 - Currently seeking a challenging **Full-Stack Engineer** role to grow my skills and contribute to impactful projects
 - Passionate about building scalable, clean, and efficient back-end systems
 
@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=vaadin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" />
 </p>
 
 ---
@@ -34,7 +36,7 @@
 
 | Category | Details |
 |----------|---------|
-| **Technical** | Spring Boot, Redis, Vaadin, Java, ASP.NET, C#, PostgreSQL |
+| **Technical** | Spring Boot, Redis, Vaadin, Java, ASP.NET, C#, PostgreSQL, Python, Robot Framework |
 | **Core** | Data Structures, Algorithms, Problem Solving, Logical Thinking |
 | **Soft Skills** | Project Management, Self-Learning, Teamwork, English Communication |
 
