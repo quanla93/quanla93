@@ -44,12 +44,8 @@
 
 ## GitHub Statistics
 
-<p align="center">
-![quanla93's GitHub stats](https://github-readme-stats-jet-kappa-12.vercel.app/api?username=quanla93&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
-</p>
-<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=quanla93&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-</p>
+
 ---
 
 ## Connect with Me
